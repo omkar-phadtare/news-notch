@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/news-notch/static/css/main.ccb94fc2.css",
+    "main.js": "/news-notch/static/js/main.3e943bd8.js",
+    "static/js/787.dddf02d8.chunk.js": "/news-notch/static/js/787.dddf02d8.chunk.js",
+    "index.html": "/news-notch/index.html",
+    "main.ccb94fc2.css.map": "/news-notch/static/css/main.ccb94fc2.css.map",
+    "main.3e943bd8.js.map": "/news-notch/static/js/main.3e943bd8.js.map",
+    "787.dddf02d8.chunk.js.map": "/news-notch/static/js/787.dddf02d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccb94fc2.css",
+    "static/js/main.3e943bd8.js"
+  ]
+}

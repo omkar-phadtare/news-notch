@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+
+.right-side{
+  margin-top: 100px;
+}
+
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+  .content-main
+  {
+    background-color:rgb(239, 233, 247);
+  }

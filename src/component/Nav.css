@@ -1,0 +1,67 @@
+.bgc-1
+{
+  background-color: red;
+}
+.type-font {
+  color: black;
+  font-weight: 100%;
+  font-family:'Courier New', Courier, monospace;
+}
+
+.text-center
+{
+  margin-top: 3.5rem;
+  border: 1px;
+  font-size: 18px;
+  font-display:initial ;
+  background-color: rgb(239, 233, 247);
+}
+
+.bg-l
+{
+  color:black;
+  text-decoration:none;
+}
+
+
+.bg-l:hover
+{
+  background-color: aquamarine;
+  color: grey;
+}
+  
+.back
+  {
+    overflow: scroll;
+    scroll-behavior: smooth;
+  }
+
+.card-style
+{
+  background-color: rgb(240, 240, 240);
+}
+
+.nav-bar
+{
+  padding: 15px;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+.nav-bar,li{
+  list-style: none;
+}
+
+.title-brand
+{
+  color: rgb(164, 164, 255);
+}
+
+.text-title
+{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-bottom: 4px;
+  border-color: black;
+  padding-top: 30px;
+}
